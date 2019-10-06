@@ -1,7 +1,7 @@
 # D3-Data-Journalism
 An Exploration of Public Data Visualization with D3.js
 
-![screenshot](https://github.com/MrBrownDazii/D3-challenge)
+![screenshot](https://github.com/MrBrownDazii/D3-challenge/blob/master/images/Screen%20Shot%202019-10-06%20at%203.28.08%20AM.png)
 
 ### Description
 This project uses D3.js to visualize state-level data information on  population health retrieved from the U.S. Census data. It similates an on-line newpaper article with an interactive visualization.  Three risk factors (obesity, smoking, and uninsurance rates) are plotted against three underlying factors which are income, poverty rate, and age.
